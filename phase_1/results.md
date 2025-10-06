@@ -42,4 +42,4 @@
 
 ---
 
-[Документ](https://docs.google.com/spreadsheets/d/1O18Dvyn0C3rHlUIn1BwA3M3wFxrJMgG8gG-7wlMQTDQ/edit?usp=sharing) с многокритериальным анализом решений по представленным концепциям и критериям
+[Документ](https://docs.google.com/spreadsheets/d/1FtgyT3hnJbbmCOp35iXUIR5VbzJ9mKX-9ZBfyA6gM9M/edit?usp=sharing) с многокритериальным анализом решений по представленным концепциям и критериям
