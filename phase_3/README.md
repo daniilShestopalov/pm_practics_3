@@ -22,4 +22,4 @@
    ![Игра%20в%20покер](/phase_3/Игра%20в%20покер.jpg)
 
 8. **Был распределен приоритет фичей**
-   Информация представлена в [документе] (https://docs.google.com/spreadsheets/d/1dSksfGWjEAmNMTxrwf5sE8YUor_0fDdPOZydgilRP78/edit?usp=sharing)
+   Информация представлена в [документе](https://docs.google.com/spreadsheets/d/1dSksfGWjEAmNMTxrwf5sE8YUor_0fDdPOZydgilRP78/edit?usp=sharing)
