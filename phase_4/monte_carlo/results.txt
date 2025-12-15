@@ -1,0 +1,4 @@
+Runs: 50000
+Median weeks: 2.0
+Mean weeks: 2.55
+80% central interval (10%-90%): [1.0, 4.0] weeks
